@@ -45,12 +45,16 @@ A full-stack web app where users can:
 git clone https://github.com/Ardhaya-Johari/travel-tracker.git
 cd travel-tracker
 npm install
+```
 
-🧩 Set Up the Database
+### 🧩 Set Up the Database
+```bash
 sql
 Copy
 Edit
+```
 -- Create DB
+```bash
 CREATE DATABASE World;
 
 -- Create tables
@@ -62,19 +66,25 @@ CREATE TABLE countries (
 CREATE TABLE visited_countries (
   country_code VARCHAR(2) PRIMARY KEY REFERENCES countries(country_code)
 );
-👉 Make sure to populate countries with real-world country data.
+```
+## 👉 Make sure to populate countries with real-world country data.
 
-📈 What You'll See
-A dark-themed world map 🗺️
+## 📈 What You'll See
+- A dark-themed world map 🗺️
 
-Smooth animations ✨
+- Smooth animations ✨
 
-A floating counter of countries visited 📊
+- A floating counter of countries visited 📊
 
-Helpful error messages 😇
+- Helpful error messages 😇
 
-A simple, powerful UI experience
+- A simple, powerful UI experience
 
-👨‍💻 Creator
+## 👨‍💻 Creator
+
+**Ardhaya Johari**  
+🔗 [GitHub](https://github.com/Ardhaya-Johari)  
+📧 ardhayasaxena3897@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ardhaya-johari-819275321/)
+
 Built with ❤️ by Ardhaya Johari
-📧 ardhayasaxena3897@gmail.com
