@@ -1,5 +1,10 @@
 Thumbs.db
-
+package.json
+package-lock.json
+solution1.js
+solution2.js
+solution3.js
+solution4.js
 # Logs
 logs
 *.log

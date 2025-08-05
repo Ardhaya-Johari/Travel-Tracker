@@ -42,7 +42,7 @@ A full-stack web app where users can:
 ### 🚀 Getting Started
 
 ```bash
-git clone https://github.com/Ardhaya-Johari/travel-tracker.git
+git clone https://github.com/Ardhaya-Johari/Travel-Tracker.git
 cd travel-tracker
 npm install
 ```
