@@ -48,11 +48,6 @@ npm install
 ```
 
 ### 🧩 Set Up the Database
-```bash
-sql
-Copy
-Edit
-```
 -- Create DB
 ```bash
 CREATE DATABASE World;
