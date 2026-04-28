@@ -1,3 +1,4 @@
+# 🌍✈️ Travel Tracker — Explore Your Journey Visually
 
 **Track the countries you've visited. See them light up on a world map. Simple. Interactive. Beautiful.**
 
