@@ -5,6 +5,12 @@
 ---
 
 ### 🧭 What is Travel Tracker?
+A full-stack web app where users can:
+
+✅ Add visited countries by typing the name  
+🗺️ See countries light up on a stylish SVG world map  
+📊 Track how many countries out of 195 you’ve visited  
+⚠️ Get smart error feedback (duplicate or invalid input)
 
 > Whether you're a globetrotter or planning your next escape, visualize your story in real time.
 
