@@ -18,13 +18,7 @@ A full-stack web app where users can:
 
 ### 🛠 Tech Stack
 
-| 💻 Tech       | 🔍 Purpose                          |
-|--------------|--------------------------------------|
-| Node.js + Express | Backend API and routing            |
-| PostgreSQL        | Stores country and visit data     |
-| EJS               | Renders dynamic content           |
-| HTML + CSS        | Clean UI with glassmorphism vibes |
-| SVG Map           | Interactive world visualization   |
+
 
 ---
 
