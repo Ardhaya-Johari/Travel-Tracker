@@ -30,11 +30,7 @@ A full-stack web app where users can:
 
 ### 🎮 How It Works
 
-1. Type a country name (full or partial)
-2. The app matches it to an official country code
-3. If valid & new, it’s added to your "visited list"
-4. Map updates — country highlighted!
-5. See total visited countries at the bottom
+
 
 ---
 
